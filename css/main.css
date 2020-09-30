@@ -30,6 +30,7 @@ header {
   font-style: normal;
   font-weight: normal;
   padding: 1rem;
+  background-color: #259f95;
 }
 
 header strong,
@@ -54,6 +55,7 @@ article header {
   background-image: none;
   border-radius: 0 0 6px 6px;
   color: #fff;
+  padding: 0;
 }
 
 h1 {

@@ -24,13 +24,13 @@ img {
 }
 
 header {
+  background-color: #259f95;
   background-image: url("../images/anchors.svg");
   color: #fff;
   font-size: 1.125rem;
   font-style: normal;
   font-weight: normal;
   padding: 1rem;
-  background-color: #259f95;
 }
 
 header strong,
